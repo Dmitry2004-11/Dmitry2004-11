@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dmitry2004-11
+- 👋 Hi, I’m Dmitry2004-11
 - 👀 I’m interested in frontend-development
 - 🌱 I’m currently learning in Skillbox
 - 💞️ I’m looking to collaborate on ...
